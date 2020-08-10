@@ -1,6 +1,7 @@
 public class B {
     private  String xx;
-    private  String a;
-    private  String v;
-    private  String b;
+    private  String a5;
+    private  String v6;
+    private  String bb;
+        private  String aa;
 }
